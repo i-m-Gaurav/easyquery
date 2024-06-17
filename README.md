@@ -19,10 +19,10 @@ This web application allows users to upload Excel or CSV files containing their 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/data-exploration-app.git`
-2. Navigate to the project directory: `cd data-exploration-app`
-3. Install dependencies for the frontend: `cd client && npm install`
-4. Install dependencies for the backend: `cd ../server && npm install`
+1. Clone the repository: `git clone https://github.com/i-m-Gaurav/easyquery.git`
+2. Navigate to the project directory: `cd easyquery`
+3. Install dependencies for the frontend: `cd frontend && npm install`
+4. Install dependencies for the backend: `cd ../backend && npm install`
 
 ## Configuration
 
@@ -34,8 +34,8 @@ SUPABASE_KEY=<your-supabase-key>
 
 ## Usage
 
-1. Start the frontend development server: `cd client && npm start`
-2. Start the backend server: `cd ../server && npm start`
+1. Start the frontend development server: `cd frontend && npm start`
+2. Start the backend server: `cd ../backend && npm start`
 3. Open your web browser and visit `http://localhost:3000` to access the application.
 
 ## Contributing
