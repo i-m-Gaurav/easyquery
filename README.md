@@ -1,4 +1,4 @@
-# Data Exploration Web Application
+# EasyQuery
 
 This web application allows users to upload Excel or CSV files containing their data, and then query the data using simple English phrases. The application utilizes React for the frontend, Node.js for the backend, and Supabase as the database.
 
