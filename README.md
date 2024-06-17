@@ -29,7 +29,7 @@ This web application allows users to upload Excel or CSV files containing their 
 1. Create a Supabase account and obtain the API keys.
 2. Create a `.env` file in the `server` directory and add the following environment variables:
 
-SUPABASE_URL=<your-supabase-url>
+SUPABASE_URL=<your-supabase-url>  
 SUPABASE_KEY=<your-supabase-key>
 
 ## Usage
