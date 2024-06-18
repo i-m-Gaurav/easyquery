@@ -1,4 +1,4 @@
-# Data Exploration Web Application
+# EasyQuery
 
 This web application allows users to upload Excel or CSV files containing their data, and then query the data using simple English phrases. The application utilizes React for the frontend, Node.js for the backend, and Supabase as the database.
 
@@ -19,23 +19,23 @@ This web application allows users to upload Excel or CSV files containing their 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/data-exploration-app.git`
-2. Navigate to the project directory: `cd data-exploration-app`
-3. Install dependencies for the frontend: `cd client && npm install`
-4. Install dependencies for the backend: `cd ../server && npm install`
+1. Clone the repository: `git clone https://github.com/i-m-Gaurav/easyquery.git`
+2. Navigate to the project directory: `cd easyquery`
+3. Install dependencies for the frontend: `cd frontend && npm install`
+4. Install dependencies for the backend: `cd ../backend && npm install`
 
 ## Configuration
 
 1. Create a Supabase account and obtain the API keys.
 2. Create a `.env` file in the `server` directory and add the following environment variables:
 
-SUPABASE_URL=<your-supabase-url>
+SUPABASE_URL=<your-supabase-url>  
 SUPABASE_KEY=<your-supabase-key>
 
 ## Usage
 
-1. Start the frontend development server: `cd client && npm start`
-2. Start the backend server: `cd ../server && npm start`
+1. Start the frontend development server: `cd frontend && npm start`
+2. Start the backend server: `cd ../backend && npm start`
 3. Open your web browser and visit `http://localhost:3000` to access the application.
 
 ## Contributing
